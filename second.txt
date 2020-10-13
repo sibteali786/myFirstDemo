@@ -1,2 +1,4 @@
 So here we are 
 Making chnage on Github 
+
+Made changes locallly though smartGit
